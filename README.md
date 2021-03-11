@@ -30,7 +30,7 @@
 </head>
 <body>
 
-   <iframe src="https://papajohns.ru/moscow" width="468" height="60" align="left">
+   <iframe src="https://vk.com/feed" width="468" height="60" align="left">
  </iframe>
 
 </body>
