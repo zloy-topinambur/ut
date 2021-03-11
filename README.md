@@ -30,7 +30,7 @@
 </head>
 <body>
 
-   <iframe src="https://vk.com/" width="468" height="60" align="left">
+   <iframe src="https://vk.com/" width="100%" height="100%" align="left"> </iframe>
  </iframe>
 
 </body>
