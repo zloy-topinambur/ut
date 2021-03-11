@@ -1,5 +1,3 @@
-# ut
-usability testing
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +31,6 @@ usability testing
 <body>
 
    <iframe src="https://papajohns.ru/moscow" width="468" height="60" align="left">
-    Ваш браузер не поддерживает плавающие фреймы!
  </iframe>
 
 </body>
