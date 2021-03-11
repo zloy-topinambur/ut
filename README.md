@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Тестирование</title>
+  <title></title>
   <style>
     body {
       margin: 0 0;
@@ -30,8 +29,7 @@
 </head>
 <body>
 
-   <iframe src="https://dodopizza.ru/" width="100%" height="100%" align="left"> </iframe>
- </iframe>
+   <iframe src="https://yandex.ru/" width="100%" height="100%" align="left"> </iframe>
 
 </body>
 </html>
