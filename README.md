@@ -30,7 +30,7 @@
 </head>
 <body>
 
-   <iframe src="https://vk.com/" width="100%" height="100%" align="left"> </iframe>
+   <iframe src="https://dodopizza.ru/" width="100%" height="100%" align="left"> </iframe>
  </iframe>
 
 </body>
